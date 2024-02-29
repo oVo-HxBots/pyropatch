@@ -1,2 +1,2 @@
-Pyrogram==2.0.16
+Pyrogram
 asyncio~=3.4.3
